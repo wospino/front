@@ -1,0 +1,16 @@
+h1 {
+    font-family: monospace;
+    color: blue
+}
+
+h2 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    color: green;
+    border: 3px;
+    border-style: solid;
+    font-size: em;
+    background-color: rgb(120, 212, 167);
+}
