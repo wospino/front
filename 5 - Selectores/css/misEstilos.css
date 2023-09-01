@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+}
+
+.principal {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#informacion {
+    text-align: center;
+}
+
+a[href*=".edu"] {
+    background-color: rgb(199, 141, 141);
+}
+
+/*pseudo clase*/
+h1:hover {
+    color: red;
+}
+
+/*pseudo elemento*/
+.principal::first-line {
+    background-color: gray;
+}
